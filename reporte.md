@@ -1,6 +1,6 @@
 # Introduccion
 
-En este reporte vamos a ver bla bla bla.
+En este reporte vamos a analizar el comportammiento de bla bla bla.
 El objetivo general es bla bla bla y los objetivos especificos bla bla bla.
 
 # Desarrollo
